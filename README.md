@@ -1,3 +1,7 @@
+Fork Notice
+===========
+Special thanks to @sigurdga for this valuable django package. This is my personal fork of django-jquery-file-upload with tweaks for my own projects. Please see the original code and licensing information at: https://github.com/sigurdga/django-jquery-file-upload
+
 [jQuery-File-Upload](http://aquantum-demo.appspot.com/file-upload) is developed by Sebastian Tschan, with the source available on [github](https://github.com/blueimp/jQuery-File-Upload). Example code is [ported to Django](https://github.com/sigurdga/django-jquery-file-upload) by Sigurd Gartmann ([sigurdga on github](https://github.com/sigurdga/)).
 
 Introduction
